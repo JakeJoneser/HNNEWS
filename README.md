@@ -5,12 +5,6 @@ Free, open source Hacker News iOS client.
 
 So what’s different from other HN apps? The “unique value proposition”? With HNNews you can see the top stories for custom periods of time and filter seen & read stories. The stories you scroll through are marked as seen. The ones you open, are marked as read. You can customize your feed to only show you new stories, ordered by popularity to quickly get back in the loop.
 
-Planned features
-
-Release 1.1 - Search
-
-Release 1.2 - CloudKit Sync
-
 Running it yourself
 
 Until the app is published you can clone the repo and build the project in Xcode (use the .xcworkspace file - or simply enter “xed .” in Terminal).
@@ -38,4 +32,4 @@ HNNews was designed and built by Doru Mihai Leonte. HNNews, and the HNNews logo 
 
 Swift, the Swift logo, Xcode, Instruments, Cocoa Touch, Touch ID, AirDrop, iPhone, iPad, Safari, App Store, watchOS, tvOS, Mac and macOS are trademarks of Apple Inc., registered in the U.S. and other countries.
 
-If you like HNNews, check out my portfolio site. 
+If you like HNNews, check out my Emial.  sootoezylrarf@hotmail.com
